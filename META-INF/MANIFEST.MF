@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Main-Class: com.cad.demo.Application
+Class-Path: ghost4j-1.0.1.jar jaxb-api-2.3.0.jar pagehelper-5.1.2.jar ja
+ xb-impl-2.3.0.jar fontbox-2.0.12.jar jaxb-core-2.3.0.jar jackson-dataty
+ pe-jsr310-2.9.7.jar activation-1.1.1.jar logback-classic-1.2.3.jar log4
+ j-api-2.11.1.jar mongodb-plus-spring-boot-starter-1.0.0.RELEASE.jar dru
+ id-spring-boot-starter-1.1.9.jar lept4j-1.10.0.jar jboss-logging-3.3.2.
+ Final.jar log4j-over-slf4j-1.7.25.jar httpclient-4.5.6.jar commons-lang
+ -2.6.jar druid-1.1.9.jar spring-tx-5.1.2.RELEASE.jar mongodb-driver-cor
+ e-3.8.2.jar jersey-media-json-jackson-2.27.jar commons-collections-3.2.
+ 2.jar hk2-locator-2.5.0-b42.jar jackson-datatype-jdk8-2.9.7.jar jersey-
+ apache-connector-2.27.jar aopalliance-repackaged-2.5.0-b42.jar mybatis-
+ spring-1.3.2.jar spring-data-commons-2.1.2.RELEASE.jar spring-boot-2.1.
+ 0.RELEASE.jar spring-aop-5.1.2.RELEASE.jar mybatis-spring-boot-starter-
+ 1.3.2.jar jersey-client-2.27.jar commons-beanutils-1.9.2.jar spring-boo
+ t-starter-logging-2.1.0.RELEASE.jar jersey-common-2.27.jar log4j-core-2
+ .11.1.jar tess4j-4.3.1.jar spring-core-5.1.2.RELEASE.jar mybatis-3.4.6.
+ jar logback-core-1.2.3.jar spring-boot-starter-2.1.0.RELEASE.jar pdfbox
+ -tools-2.0.12.jar jackson-databind-2.9.7.jar jackson-module-jaxb-annota
+ tions-2.9.7.jar commons-codec-1.11.jar jboss-vfs-3.2.14.Final.jar pageh
+ elper-spring-boot-starter-1.2.3.jar commons-logging-1.2.jar snakeyaml-1
+ .23.jar spring-boot-starter-data-mongodb-2.1.0.RELEASE.jar pagehelper-s
+ pring-boot-autoconfigure-1.2.3.jar spring-expression-5.1.2.RELEASE.jar 
+ spring-webmvc-5.1.2.RELEASE.jar jersey-container-servlet-2.27.jar mongo
+ db-driver-3.8.2.jar commons-configuration2-2.1.1.jar tomcat-embed-el-9.
+ 0.12.jar jcl-over-slf4j-1.7.25.jar mysql-connector-java-5.1.46.jar java
+ x.inject-2.5.0-b42.jar spring-jcl-5.1.2.RELEASE.jar jersey-hk2-2.27.jar
+  jsr305-3.0.1.jar jai-imageio-core-1.4.0.jar jsqlparser-1.0.jar jersey-
+ server-2.27.jar commons-configuration-1.10.jar fastjson-1.2.15.jar spri
+ ng-boot-starter-jdbc-2.1.0.RELEASE.jar spring-web-5.1.2.RELEASE.jar jav
+ ax.annotation-api-1.3.2.jar spring-boot-starter-tomcat-2.1.0.RELEASE.ja
+ r spring-data-mongodb-2.1.2.RELEASE.jar guava-19.0.jar jersey-entity-fi
+ ltering-2.27.jar validation-api-2.0.0.Final.jar javax.ws.rs-api-2.1.jar
+  javax.json-1.0.jar spring-context-5.1.2.RELEASE.jar pdfbox-2.0.12.jar 
+ commons-io-2.6.jar bson-3.8.2.jar javassist-3.21.0-GA.jar jul-to-slf4j-
+ 1.7.25.jar spring-beans-5.1.2.RELEASE.jar hk2-utils-2.5.0-b42.jar hiber
+ nate-validator-6.0.13.Final.jar spring-boot-starter-json-2.1.0.RELEASE.
+ jar jbig2-imageio-3.0.2.jar hugegraph-common-1.6.11.jar javax.inject-1.
+ jar jna-4.5.2.jar HikariCP-3.2.0.jar mybatis-spring-boot-autoconfigure-
+ 1.3.2.jar jackson-core-2.9.7.jar hamcrest-core-1.3.jar hk2-api-2.5.0-b4
+ 2.jar osgi-resource-locator-1.0.1.jar classmate-1.4.0.jar spring-boot-a
+ utoconfigure-2.1.0.RELEASE.jar spring-jdbc-5.1.2.RELEASE.jar log4j-slf4
+ j-impl-2.11.1.jar slf4j-api-1.7.25.jar xmlgraphics-commons-1.4.jar tomc
+ at-embed-core-9.0.12.jar lombok-1.18.2.jar commons-lang3-3.8.1.jar jack
+ son-module-parameter-names-2.9.7.jar jersey-container-servlet-core-2.27
+ .jar tomcat-embed-websocket-9.0.12.jar junit-4.12.jar hugegraph-client-
+ 1.8.0.jar spring-boot-starter-web-2.1.0.RELEASE.jar pdfbox-debugger-2.0
+ .12.jar log4j-to-slf4j-2.11.1.jar itext-2.1.7.jar httpcore-4.4.10.jar l
+ og4j-1.2.17.jar jersey-media-jaxb-2.27.jar jackson-annotations-2.9.0.ja
+ r
+
